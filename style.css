@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/header.jpg);
+    background-size: cover;
+}
+
+.simple1{
+    background-color: white;
+    color: black; 
+    font-size: 1.5rem;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.simple2{
+    background-color: teal;
+}
+
